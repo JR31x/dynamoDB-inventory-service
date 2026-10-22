@@ -1,0 +1,1 @@
+# dynamoDB-inventory-service
